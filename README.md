@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Ly Horleng
 
-### Mobile & Web Developer
+Hi, I’m Ly Horleng — a mobile and web developer who enjoys turning ideas into simple, practical, and user-friendly digital products. 
+I care about building things that not only work well, but also feel intuitive and enjoyable to use.
 
-I build **modern, responsive, and scalable applications** across mobile and web platforms.
-
-I'm passionate about turning ideas into reliable products, writing clean and maintainable code, and continuously exploring better ways to solve real-world problems.
+I’m detail-oriented, enjoy solving real-world problems, and value clean, maintainable work. I’m always learning, exploring new ideas, and looking for better ways to build meaningful digital experiences.
 
 🌐 **Portfolio:** [horleng.vercel.app](https://horleng.vercel.app/)
